@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.3
+plantcv==4.5.1
+ultralytics==8.3.18
+sahi @ git+https://github.com/jorgemasgomez/sahi.git@8edc121a6744b70ab8fcc7fbf1aca58d18aa5eef
+opencv-python-headless==4.10.0.84
+imutils==0.5.4
+scipy==1.14.1
+matplotlib==3.9.2
+Pillow==11.0.0
+scikit-learn==1.5.2
+pyyaml==6.0.2
+torch
